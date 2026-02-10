@@ -18,8 +18,6 @@ I specialize in transforming complex customer journeys into streamlined, automat
     *   Engineered a **[Smart Ticket Router (v1.0)](YOUR_SMART_TICKET_ROUTER_DOCS_OR_REPO)** that **reduced manual ticket sorting time by X%** (e.g., 70%).
     *   Automated alert systems via Telegram, **improving incident response time by Y%** (e.g., 50%).
 *   **[AI Integration](YOUR_GEMINI_PIPELINE_DOCS_OR_REPO):** Developed a **Google Sheets ↔️ Gemini AI** pipeline using **Make** for intelligent data processing, **automating Z% of data enrichment tasks** (e.g., 90%).
-*   **remie (Project Name):** [Description of remie and its impact, along with a link if available]
-
 ---
 
 ### 🏢 Professional Pedigree
