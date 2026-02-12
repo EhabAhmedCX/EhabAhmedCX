@@ -1,5 +1,3 @@
-الام التسويق ١٠٠%
-
 # 🚀 CX Operations Architecture & Automation Designs
 
 📋 **Portfolio Note**  
