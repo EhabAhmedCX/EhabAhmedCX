@@ -294,7 +294,7 @@ interface ReturnRequestObject {
 |------------------|-------------------------------------------------------------------------|
 | **LinkedIn**     | [linkedin.com/in/ehab-ahmed-cx](https://linkedin.com/in/ehab-ahmed-cx)  |
 | **Email**        | `ehab.ahmedcx@gmail.com`                                                |
-| **Location**     | Egypt ➔ Targeting Saudi Arabia & GCC (excluding UAE)                    |
+| **Location**     | Egypt ➔ Targeting Saudi Arabia & GCC                  |
 | **Availability** | Open to opportunities in **KSA**: CX Operations Specialist, Automation  |
 
 ---
