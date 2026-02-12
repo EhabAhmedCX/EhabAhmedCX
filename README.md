@@ -315,5 +315,6 @@ interface ReturnRequestObject {
 ---
 
 ```bash
-echo "ehab.ahmedcx@gmail.com" | mail --subject "CX Collaboration Request"
+echo "ehab.ahmedcx@gmail.com" | mail 
+--subject "CX Collaboration Request"
 ```
