@@ -16,11 +16,9 @@
 
 ## 👋 About Me
 
-I'm a **CX Automation & Operations professional** with 5+ years of front-line experience in high-volume e-commerce (Namshi) and government environments (MOHRE), now specializing in designing intelligent automation systems that eliminate manual work at scale.
+I'm a **CX Automation & Operations** professional with 5+ years of front-line experience in high-volume e-commerce (Namshi.com) and government environments (MOHRE), now specializing in designing intelligent automation systems that eliminate manual work at scale.
 
-I bridge two worlds most people keep separate: **deep operational empathy** from years of handling real ticket queues, and **hands-on technical architecture** using n8n, HubSpot, Firebase, and AI pipelines.
-
-I don't just handle tickets. I build systems that prevent the need for them.
+I bridge two worlds most people keep separate.
 
 ---
 
