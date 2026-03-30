@@ -14,8 +14,6 @@
 
 ---
 
-## 👋 About Me
-
 I'm a **CX Automation & Operations** professional with 5+ years of front-line experience in high-volume e-commerce (Namshi.com) and government environments (MOHRE), now specializing in designing intelligent automation systems that eliminate manual work at scale.
 
 I bridge two worlds most people keep separate.
@@ -24,37 +22,29 @@ I bridge two worlds most people keep separate.
 
 ## 📊 Impact Metrics
 
-<div align="center">
-
-| 🎯 Manual Triage Cut | 🔀 Routing Accuracy | ⚡ Response Time | 🤖 Daily Automation | ✅ QA Score |
-|:---:|:---:|:---:|:---:|:---:|
-| **85%** | **92%** | **↓ 40%** | **500+ tickets** | **97%+** |
-
-</div>
+| 🎯 Manual Triage Cut | 🔄 Routing Accuracy | ⚡ Response Time | 🤖 Daily Automation |
+|----------------------|---------------------|-----------------|---------------------|
+| **85%**              | **92%**             | **↓ 40%**       | **500+ tickets**    |
 
 ---
 
 ## 🛠️ Tech Stack
 
-```
-Automation       │  n8n (Self-Hosted · Docker)  ·  Make.com  ·  Webhook Architecture
-CRM & Support    │  HubSpot Service Hub  ·  Zendesk  ·  Dynamics 365
-Cloud & Backend  │  Firebase Firestore  ·  Cloud Functions  ·  Google Sheets API
-AI & NLP         │  Ticket Classification  ·  Google Gemini AI  ·  Sentiment Analysis
-APIs & Protocols │  REST APIs  ·  Meta Cloud API v23.0  ·  Telegram Bot API
-Languages        │  JavaScript  ·  JSON Logic
-Monitoring       │  Grafana  ·  Rocket.Chat
-```
+**Automation**  n8n (Self-Hosted + Docker) • Make.com  
+**CRM & Support** HubSpot Service Hub • Zendesk • Dynamics 365  
+**Cloud & Backend** Firebase Firestore • Google Sheets API  
+**AI & NLP**   Ticket Classification • Google Gemini AI  
+**APIs**     REST APIs • Telegram Bot API • Meta Cloud API  
+**Languages**   JavaScript • JSON Logic  
 
 ---
 
 ## 🚀 Projects
 
 ### ✅ Smart Ticket Router — AI-Powered CX Automation
-
 Intelligent ticket routing system that analyzes, classifies, and routes **500+ tickets/day** — fully automated, 24/7.
 
-**The Problem:** Manual triage was causing delays and inconsistent handling.  
+**The Problem:** Manual ticket triage was causing routing delays and inconsistent handling.  
 **Solution:** Built n8n workflow with AI/NLP classification + auto-routing across Zendesk, HubSpot & Dynamics 365.  
 
 **Stack:** n8n • JavaScript • HubSpot • Zendesk • Dynamics 365 • REST APIs • AI/NLP  
@@ -64,25 +54,16 @@ Intelligent ticket routing system that analyzes, classifies, and routes **500+ t
 - Routing accuracy improved to **92%**
 - First response time reduced by **40%**
 
----
-
 ### ✅ Real-Time Telegram Alert Automation
-24/7 API monitoring system that sends instant formatted alerts to Telegram on SLA breaches or critical changes.
-
+24/7 API monitoring system that sends instant formatted alerts to Telegram on critical conditions.  
 **Results:** 100% automated monitoring | Zero manual checking time
 
----
-
 ### ✅ Spreadsheet Automation with Google Sheets + Gemini AI
-AI-powered pipeline that monitors Google Sheets and enriches data automatically.
-
-**Results:** Processing time reduced from minutes to **seconds** per entry (100% automated)
-
----
+AI-powered pipeline for real-time data enrichment.  
+**Results:** Processing time reduced from minutes to **seconds** per entry
 
 ### ✅ VIP Ticket Priority & Proactive Handling (HubSpot Service Hub)
-Completed 100% — Automated priority queuing and proactive SLA notifications.
-
+Completed 100% — Automated priority queuing and proactive SLA notifications.  
 **Results:** VIP CSAT reached **98%**
 
 *(In Progress: Omnichannel Conversation Hub – Black Friday 2026 | NajdCommerce CX Portfolio | Multi-Carrier Tracking Architecture)*
@@ -129,4 +110,3 @@ Higher Institute of Advanced Studies, Cairo · 2018
 Open to **CX Automation & Operations Specialist** roles in Egypt and remote/GCC opportunities.
 
 ---
-
