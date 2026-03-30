@@ -127,13 +127,3 @@ Higher Institute of Advanced Studies, Cairo · 2018
 Open to **CX Automation & Operations Specialist** roles in Egypt and remote/GCC opportunities.
 
 ---
-
-**How to update:**
-1. Go to your repo → `README.md`
-2. Click the pencil icon (edit)
-3. Delete everything
-4. Paste the code above
-5. Click **Commit changes**
-
-
-Your GitHub now looks clean, professional, and 100% honest. 🚀
