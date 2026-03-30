@@ -1,55 +1,59 @@
-# Ehab Ahmed
-
-### CX Automation & Operations Architect
-
 <div align="center">
+
+# Ehab Ahmed
+### CX Automation & Operations Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehab-moreed-cx)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehababdelmoreed@gmail.com)
+[![Location](https://img.shields.io/badge/Cairo%2C%20Egypt-Open%20to%20Remote%20%2F%20GCC%20%2F%20KSA-1A3A5C?style=for-the-badge)](#)
+
+> *"I started on the front lines — 300+ tickets a day, 95% SLA, real operational pressure.*
+> *Then I built the systems that eliminate the need for that pressure."*
 
 </div>
-
-<div align="center">
-
-![Cairo](https://img.shields.io/badge/CAIRO%2C%20EGYPT-2C3E50?style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20REMOTE%20%2F%20GCC%20%2F%20KSA-1ABC9C?style=for-the-badge)
-
-</div>
-
-> "I started on the front lines — 300+ tickets a day, 95% SLA, real operational pressure. Then I built the systems that eliminate the need for that pressure."
 
 ---
 
 ## 👋 About Me
 
-I'm a **CX Automation & Operations** professional with 5+ years of front-line experience in high-volume e-commerce (Namshi.com) and government environments (MOHRE), now specializing in designing intelligent automation systems that eliminate manual work at scale.
+I'm a **CX Automation & Operations professional** with 5+ years of front-line experience in high-volume e-commerce (Namshi) and government environments (MOHRE), now specializing in designing intelligent automation systems that eliminate manual work at scale.
 
-I bridge two worlds most people keep separate.
+I bridge two worlds most people keep separate: **deep operational empathy** from years of handling real ticket queues, and **hands-on technical architecture** using n8n, HubSpot, Firebase, and AI pipelines.
+
+I don't just handle tickets. I build systems that prevent the need for them.
 
 ---
 
 ## 📊 Impact Metrics
 
-| 🎯 Manual Triage Cut | 🔄 Routing Accuracy | ⚡ Response Time | 🤖 Daily Automation |
-|----------------------|---------------------|-----------------|---------------------|
-| **85%**              | **92%**             | **↓ 40%**       | **500+ tickets**    |
+<div align="center">
+
+| 🎯 Manual Triage Cut | 🔀 Routing Accuracy | ⚡ Response Time | 🤖 Daily Automation | ✅ QA Score |
+|:---:|:---:|:---:|:---:|:---:|
+| **85%** | **92%** | **↓ 40%** | **500+ tickets** | **97%+** |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Automation**  n8n (Self-Hosted + Docker) • Make.com  
-**CRM & Support** HubSpot Service Hub • Zendesk • Dynamics 365  
-**Cloud & Backend** Firebase Firestore • Google Sheets API  
-**AI & NLP**   Ticket Classification • Google Gemini AI  
-**APIs**     REST APIs • Telegram Bot API • Meta Cloud API  
-**Languages**   JavaScript • JSON Logic  
+```
+Automation       │  n8n (Self-Hosted · Docker)  ·  Make.com  ·  Webhook Architecture
+CRM & Support    │  HubSpot Service Hub  ·  Zendesk  ·  Dynamics 365
+Cloud & Backend  │  Firebase Firestore  ·  Cloud Functions  ·  Google Sheets API
+AI & NLP         │  Ticket Classification  ·  Google Gemini AI  ·  Sentiment Analysis
+APIs & Protocols │  REST APIs  ·  Meta Cloud API v23.0  ·  Telegram Bot API
+Languages        │  JavaScript  ·  JSON Logic
+Monitoring       │  Grafana  ·  Rocket.Chat
+```
 
 ---
 
 ## 🚀 Projects
 
 ### ✅ Smart Ticket Router — AI-Powered CX Automation
+
 Intelligent ticket routing system that analyzes, classifies, and routes **500+ tickets/day** — fully automated, 24/7.
 
 **The Problem:** Manual triage was causing delays and inconsistent handling.  
