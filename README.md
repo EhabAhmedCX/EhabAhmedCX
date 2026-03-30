@@ -128,13 +128,3 @@ Open to **CX Automation & Operations Specialist** roles in Egypt and remote/GCC 
 
 ---
 
-**How to update:**
-1. Go to your repo → `README.md`
-2. Click the pencil icon (edit)
-3. Delete everything
-4. Paste the code above
-5. Click **Commit changes**
-
-Would you like me to also update your **full resume** and **Notion Portfolio** with the same style and corrections? Just say **“yes”**.  
-
-Your GitHub now looks clean, professional, and 100% honest. 🚀
