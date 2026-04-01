@@ -1,22 +1,30 @@
-<div align="center">
-
 # Ehab Ahmed
+
 ### CX Automation & Operations Architect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehab-moreed-cx)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehababdelmoreed@gmail.com)
-[![Location](https://img.shields.io/badge/Cairo%2C%20Egypt-Open%20to%20Remote%20%2F%20GCC%20%2F%20KSA-1A3A5C?style=for-the-badge)](#)
-
-> *"I started on the front lines — 300+ tickets a day, 95% SLA, real operational pressure.*
-> *Then I built the systems that eliminate the need for that pressure."*
 
 </div>
 
+<div align="center">
+
+![Cairo](https://img.shields.io/badge/CAIRO%2C%20EGYPT-2C3E50?style=for-the-badge)
+![Open](https://img.shields.io/badge/OPEN%20TO%20REMOTE%20%2F%20GCC%20%2F%20KSA-1ABC9C?style=for-the-badge)
+
+</div>
+
+> "I'm a CX professional who learned to build systems — because I lived the pain firsthand."
+
 ---
 
-I'm a **CX Automation & Operations** professional with 5+ years of front-line experience in high-volume e-commerce (Namshi.com) and government environments (MOHRE), now specializing in designing intelligent automation systems that eliminate manual work at scale.
+## 👋 About Me
 
-I bridge two worlds most people keep separate.
+CX Automation & Operations Architect with 5+ years of front-line experience in high-volume e-commerce (Namshi.com) and government environments (MOHRE).  
+
+While working full-time in CX roles, I independently learned n8n, HubSpot, and APIs to solve real operational problems. Built production-grade automation systems that reduced manual triage by 85%, improved routing accuracy to 92%, and delivered significant efficiency gains.
 
 ---
 
@@ -34,39 +42,27 @@ I bridge two worlds most people keep separate.
 **CRM & Support** HubSpot Service Hub • Zendesk • Dynamics 365  
 **Cloud & Backend** Firebase Firestore • Google Sheets API  
 **AI & NLP**   Ticket Classification • Google Gemini AI  
-**APIs**     REST APIs • Telegram Bot API • Meta Cloud API  
+**APIs & Messaging** REST APIs • Telegram Bot API • WhatsApp Business API  
 **Languages**   JavaScript • JSON Logic  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### ✅ Smart Ticket Router — AI-Powered CX Automation
-Intelligent ticket routing system that analyzes, classifies, and routes **500+ tickets/day** — fully automated, 24/7.
+**Smart Ticket Router — AI-Powered CX Automation**  
+Intelligent routing system using n8n + AI/NLP that classifies and routes 500+ tickets/day automatically.  
+**Results**: Manual triage ↓85% | Routing accuracy 92% | First response time ↓40%
 
-**The Problem:** Manual ticket triage was causing routing delays and inconsistent handling.  
-**Solution:** Built n8n workflow with AI/NLP classification + auto-routing across Zendesk, HubSpot & Dynamics 365.  
+**Real-Time Telegram Alert Automation**  
+24/7 API monitoring system with instant formatted alerts to Telegram.  
+**Results**: 100% automated monitoring | Zero manual checking
 
-**Stack:** n8n • JavaScript • HubSpot • Zendesk • Dynamics 365 • REST APIs • AI/NLP  
+**VIP Ticket Priority & Proactive Handling (HubSpot Service Hub)**  
+Automated priority queuing and proactive SLA notifications.  
+**Results**: VIP CSAT reached 98%
 
-**Results:**
-- Manual triage time reduced by **85%**
-- Routing accuracy improved to **92%**
-- First response time reduced by **40%**
-
-### ✅ Real-Time Telegram Alert Automation
-24/7 API monitoring system that sends instant formatted alerts to Telegram on critical conditions.  
-**Results:** 100% automated monitoring | Zero manual checking time
-
-### ✅ Spreadsheet Automation with Google Sheets + Gemini AI
-AI-powered pipeline for real-time data enrichment.  
-**Results:** Processing time reduced from minutes to **seconds** per entry
-
-### ✅ VIP Ticket Priority & Proactive Handling (HubSpot Service Hub)
-Completed 100% — Automated priority queuing and proactive SLA notifications.  
-**Results:** VIP CSAT reached **98%**
-
-*(In Progress: Omnichannel Conversation Hub – Black Friday 2026 | NajdCommerce CX Portfolio | Multi-Carrier Tracking Architecture)*
+**Multi-Carrier Tracking & Proactive Alert System** (In Progress)  
+Unified tracking for Bosta, Aramex & Egypt Post targeting 70% WISMO ticket reduction.
 
 ---
 
