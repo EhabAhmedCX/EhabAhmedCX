@@ -24,45 +24,46 @@
 
 CX Automation & Operations Architect with 5+ years of front-line experience in high-volume e-commerce (Namshi.com) and government environments (MOHRE).  
 
-While working full-time in CX roles, I independently learned n8n, HubSpot, and APIs to solve real operational problems. Built production-grade automation systems that reduced manual triage by 85%, improved routing accuracy to 92%, and delivered significant efficiency gains.
+While working full-time in CX roles, I independently learned n8n, HubSpot, Firebase, and REST APIs to solve real operational problems I faced daily.
 
 ---
 
 ## 📊 Impact Metrics
 
-| 🎯 Manual Triage Cut | 🔄 Routing Accuracy | ⚡ Response Time | 🤖 Daily Automation |
-|----------------------|---------------------|-----------------|---------------------|
-| **85%**              | **92%**             | **↓ 40%**       | **500+ tickets**    |
+| 🎯 Manual Triage Reduction | 🔄 Routing Accuracy | 💰 Modeled Annual OPEX Savings | 🤖 Tickets/Day Automated |
+|----------------------------|---------------------|--------------------------------|--------------------------|
+| **85%**                    | **92%**             | **$154K+**                     | **500+**                 |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Automation**  n8n (Self-Hosted + Docker) • Make.com  
-**CRM & Support** HubSpot Service Hub • Zendesk • Dynamics 365  
-**Cloud & Backend** Firebase Firestore • Google Sheets API  
-**AI & NLP**   Ticket Classification • Google Gemini AI  
-**APIs & Messaging** REST APIs • Telegram Bot API • WhatsApp Business API  
-**Languages**   JavaScript • JSON Logic  
+**Orchestration**  n8n (Self-Hosted + Docker) • Make.com  
+**CRM & Support** HubSpot Service Hub • Zendesk  
+**Database & Cloud** Firebase Firestore • Google Sheets API  
+**AI & Logic**   Hybrid NLP (HubSpot + Google Cloud NLP + Regex)  
+**Integrations**   Telegram Bot API • WhatsApp Business API • REST APIs  
+**Monitoring**   Custom dashboards & real-time alerts
 
 ---
 
 ## 🚀 Featured Projects
 
-**Smart Ticket Router — AI-Powered CX Automation**  
-Intelligent routing system using n8n + AI/NLP that classifies and routes 500+ tickets/day automatically.  
+### 01 Smart Ticket Router — AI-Powered CX Automation
+Intelligent routing system that classifies and routes 500+ tickets/day automatically.  
 **Results**: Manual triage ↓85% | Routing accuracy 92% | First response time ↓40%
 
-**Real-Time Telegram Alert Automation**  
-24/7 API monitoring system with instant formatted alerts to Telegram.  
+### 02 Real-Time Telegram Alert System
+24/7 API monitoring with instant formatted alerts to Telegram.  
 **Results**: 100% automated monitoring | Zero manual checking
 
-**VIP Ticket Priority & Proactive Handling (HubSpot Service Hub)**  
-Automated priority queuing and proactive SLA notifications.  
+### 03 VIP Priority Workflow (HubSpot Service Hub)
+Automated priority queuing and proactive SLA notifications for high-value customers.  
 **Results**: VIP CSAT reached 98%
 
-**Multi-Carrier Tracking & Proactive Alert System** (In Progress)  
-Unified tracking for Bosta, Aramex & Egypt Post targeting 70% WISMO ticket reduction.
+### 04 Omnichannel Architecture (Black Friday Scale)
+Designed for 5,000+ tickets/day — unifying WhatsApp, Instagram, Email & Live Chat.  
+**Results**: Horizontal scaling with zero added headcount
 
 ---
 
@@ -103,6 +104,6 @@ Higher Institute of Advanced Studies, Cairo · 2018
 ---
 
 **Currently based in Cairo, Egypt** (relocated from Dubai in December 2025)  
-Open to **CX Automation & Operations Specialist** roles in Egypt and remote/GCC opportunities.
+Open to **CX Automation & Operations** roles in Egypt and remote/GCC opportunities.
 
 ---
