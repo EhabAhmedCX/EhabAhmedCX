@@ -47,8 +47,8 @@ This project handles incoming support tickets via webhook, validates data, intel
 
 ### 🌐 Let's Connect
 
-- 💼 **Portfolio:** [https://topaz-tick-e9c.notion.site/Ehab-Ahmed-CX-Automation-Ops-Specialist-348f690b580180b38a02f58090c13aa7?pvs=143 / https://www.linkedin.com/in/ehab-moreed-cx]
-- 📧 **Email:** ehababdelmoreed@gmail.com / ehab.ahmedcx@gmail.com
+- 💼 **Portfolio:** [Your Portfolio URL / LinkedIn]
+- 📧 **Email:** ehababdelmoreed@gmail.com
 - 💬 **Languages:** English & Arabic (Native/Bilingual)
 
 ---
