@@ -14,14 +14,27 @@ I am a **CX Automation & Operations Architect** passionate about bridging the ga
 
 | Area | Technologies & Tools |
 | :--- | :--- |
-| **CRM & Ops** | HubSpot, Salesforce, Zendesk |
-| **Automation** | n8n, Make (Integromat), Zapier |
+| **CRM & Ops** | HubSpot, Zendesk, Agent Zero |
+| **Automation** | n8n, Make, Generative AI |
 | **Stack** | JavaScript, Python, REST APIs, Webhooks |
-| **Current Focus** | AI Agents, Bilingual Support (AR/EN), Slack Integrations |
+| **Current Focus** | AI Agents, Slack Integrations, Omnichannel Hub |
 
 ---
 
-### 🏆 Featured Project: Smart Ticket Router
+### 📊 HubSpot Sandbox Activity
+
+| Metric | Value |
+| :--- | :--- |
+| **Active Days** | 161 days |
+| **Total Events** | 31,840+ |
+| **Features Used** | 160+ |
+| **HubGrader Score** | 51.9 (Top 48%) |
+
+---
+
+### 🏆 Featured Projects
+
+**Project 01: Smart Ticket Router**
 
 > **Automated Support Ticket Routing System** built for scale and precision.
 
@@ -36,6 +49,43 @@ This project handles incoming support tickets via webhook, validates data, intel
 
 ---
 
+**Project 02: SLA Escalation Workflow**
+
+> **Multi-tier SLA management system built in HubSpot.**
+
+| Metric | Value |
+| :--- | :--- |
+| **Priority Levels** | High (15 min), Medium (45 min), Low (60 min) |
+| **Branch Logic** | 3 branches with conditional delays & gates |
+| **Core Tech** | HubSpot Workflows, Ticket Properties |
+| **Status** | Production-ready, tested in Sandbox |
+
+This workflow automatically escalates tickets based on priority — sending email alerts, creating tasks, and preventing false escalations on closed tickets. Built and tested in a HubSpot Developer Sandbox with 13,570+ event logs.
+
+---
+
+**Project 03: WISMO Automation Engine**
+
+> **Auto-classification workflow for e-commerce order inquiries.**
+
+| Metric | Value |
+| :--- | :--- |
+| **Manual Sorting Reduction** | 85% |
+| **Routing Accuracy** | 92% |
+| **Core Tech** | n8n, Generative AI, HubSpot |
+| **Status** | Production-ready |
+
+This workflow automatically identifies "Where Is My Order?" tickets, classifies them by intent and urgency, and routes them to the appropriate team—reducing manual sorting work by 85% and achieving 92% routing accuracy.
+
+---
+
+### 📄 Case Studies
+
+- [30,000+ Ticket Backlog Recovery — Namshi/Noon Integration](./case-study.md)
+- [HubSpot CX Operations Sandbox — Technical Walkthrough](./hubspot-sandbox.md)
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -47,12 +97,13 @@ This project handles incoming support tickets via webhook, validates data, intel
 
 ### 🌐 Let's Connect
 
-- 💼 **Portfolio:** [Your Portfolio URL / LinkedIn]
-- 📧 **Email:** ehababdelmoreed@gmail.com
+- 💼 **Portfolio:** [ehab-ahmed-cx.notion.site](https://ehab-ahmed-cx.notion.site)
+- 🔗 **LinkedIn:** [linkedin.com/in/ehab-moreed-cx](https://linkedin.com/in/ehab-moreed-cx)
+- 📧 **Emails:** ehab.ahmedcx@gmail.com · ehababdelmoreed@gmail.com
 - 💬 **Languages:** English & Arabic (Native/Bilingual)
 
 ---
 
 <div align="center">
-  <i>“Automation is the bridge between chaos and efficiency.”</i>
+  <i>"Automation is the bridge between chaos and efficiency."</i>
 </div>
